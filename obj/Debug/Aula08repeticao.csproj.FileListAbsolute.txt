@@ -1,0 +1,8 @@
+C:\Users\eduardo.bcoppi\source\repos\Aula08repeticao2\Aula08repeticao2\bin\Debug\Aula08repeticao2.exe.config
+C:\Users\eduardo.bcoppi\source\repos\Aula08repeticao2\Aula08repeticao2\bin\Debug\Aula08repeticao2.exe
+C:\Users\eduardo.bcoppi\source\repos\Aula08repeticao2\Aula08repeticao2\bin\Debug\Aula08repeticao2.pdb
+C:\Users\eduardo.bcoppi\source\repos\Aula08repeticao2\Aula08repeticao2\obj\Debug\Aula08repeticao.csproj.AssemblyReference.cache
+C:\Users\eduardo.bcoppi\source\repos\Aula08repeticao2\Aula08repeticao2\obj\Debug\Aula08repeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduardo.bcoppi\source\repos\Aula08repeticao2\Aula08repeticao2\obj\Debug\Aula08repeticao.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.bcoppi\source\repos\Aula08repeticao2\Aula08repeticao2\obj\Debug\Aula08repeticao2.exe
+C:\Users\eduardo.bcoppi\source\repos\Aula08repeticao2\Aula08repeticao2\obj\Debug\Aula08repeticao2.pdb
